@@ -37,6 +37,7 @@ Views: Created for recurring queries, such as tracking vaccination progress.
 Data Cleaning: Adjustments were made to ensure data accuracy, such as handling invalid dates and missing information.
 
  Insights Summary
+ 
   Deaths (Highest/Lowest Death Rates by Country and Continent):
 
 - Highest Death Rates by Country:
@@ -115,7 +116,7 @@ Data Cleaning: Adjustments were made to ensure data accuracy, such as handling i
 - Impact on COVID-19 Deaths:
 - Cardiovascular conditions had a substantial impact on COVID-19 deaths, particularly in regions like North America, Europe, and parts of South America. Pre-existing cardiovascular issues were significant, increasing the severity of infections.
 
--  Recommendations
+   Recommendations
 
 1. Increase Global Vaccine Distribution: Vaccination was a key factor in reducing both infection and death rates. Investment in global vaccine distribution programs should be prioritized in future pandemic preparedness.
 
