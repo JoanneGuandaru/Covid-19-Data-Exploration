@@ -1,5 +1,5 @@
-# Joanne-s-Portfolio-Project
-COVID-19 Project
+# COVID-19 Data Exploration Project
+COVID-19 Project Overview
 
 This project aimed to analyze COVID-19 data, focusing on key aspects such as infection rates, death percentages, and vaccination coverage across different countries and continents. The analysis explored various dimensions of the pandemic, including the relationship between total cases and deaths, infection rates relative to population, and trends in vaccination rollouts. The project also examined ICU admissions, hospitalization, and positivity rates to understand the healthcare strain caused by the virus.
 
